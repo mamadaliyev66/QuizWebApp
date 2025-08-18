@@ -1,0 +1,18 @@
+[
+  {
+    "id": "default-admin",
+    "name": "Administrator",
+    "login": "admin@rcs.uz",
+    "password": "$2b$10$uJ1t.gpbWrDM2aAMJnvj7OZeYnZ19Gj7nxtiYqU1VoN8Rupfj.dcO",
+    "isAdmin": true,
+    "createdAt": "2025-08-18T14:41:21.241Z"
+  },
+  {
+    "id": "1755528113071",
+    "name": "Demo User 1 ",
+    "login": "user1@gmail.com",
+    "password": "$2b$10$LmTGEtCpuymjBh.dKryrWOSjXDnIpj7SiOHrahbV2xGtSYGP.ocMS",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:41:53.071Z"
+  }
+]
