@@ -8,6 +8,14 @@
     "createdAt": "2025-08-18T14:41:21.241Z"
   },
   {
+    "id": "1755528113071",
+    "name": "Demo User 1 ",
+    "login": "user1@gmail.com",
+    "password": "$2b$10$LmTGEtCpuymjBh.dKryrWOSjXDnIpj7SiOHrahbV2xGtSYGP.ocMS",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:41:53.071Z"
+  },
+   {
     "id": "1755528113072",
     "name": "1 - Foydalanuvchi",
     "login": "user22051@rcs.uz",
