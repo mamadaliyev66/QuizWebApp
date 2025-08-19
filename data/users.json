@@ -14,5 +14,245 @@
     "password": "$2b$10$LmTGEtCpuymjBh.dKryrWOSjXDnIpj7SiOHrahbV2xGtSYGP.ocMS",
     "isAdmin": false,
     "createdAt": "2025-08-18T14:41:53.071Z"
+  },
+  {
+    "id": "1755528113072",
+    "name": "1 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$KJLSJ3aoaA.yY/oS/siWfOqO64jpd1X9mP4xDbLQ7uKw/c1LnYZ9u",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:41:54.071000Z"
+  },
+  {
+    "id": "1755528113073",
+    "name": "2 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$ExJlUFKFFQNJLBsqikopWuCOQQXi4u7kto4sVZ1LuTNX3EHPPClr6",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:41:55.071000Z"
+  },
+  {
+    "id": "1755528113074",
+    "name": "3 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$5N3IGxkdjLu5iJb0chGVT.c7vgSL8GCFSQ0UUDq3bKnkBIm.KIW1G",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:41:56.071000Z"
+  },
+  {
+    "id": "1755528113075",
+    "name": "4 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$Qicnp.DkH3dQ.cwgSMXx3.Xa43vsE14NIqb8I8At2yQ2TqCjZG69S",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:41:57.071000Z"
+  },
+  {
+    "id": "1755528113076",
+    "name": "5 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$8zvUK7in1cuAaiODoDrOcutySBtWp3DiDcEzX/0.3KIF6GTZ90FXO",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:41:58.071000Z"
+  },
+  {
+    "id": "1755528113077",
+    "name": "6 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$8uyEWh6FNOzTzPjga16lvOKF5TaVH8nF99zlZl9LDPeXKC6T8se0C",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:41:59.071000Z"
+  },
+  {
+    "id": "1755528113078",
+    "name": "7 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$ff4eT6cMNBivhEhGu/ED7OeUklu2onAmGcMNFkpPquNh3.kXE30nq",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:00.071000Z"
+  },
+  {
+    "id": "1755528113079",
+    "name": "8 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$UXPivgvfIudp38Nyi/PWgehlBP0G5BWsBOm1t0nb8Ci6XxDaldXLe",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:01.071000Z"
+  },
+  {
+    "id": "1755528113080",
+    "name": "9 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$P4ONkbmIWhX1iZA.WKx6O.f8BY.VRljlis5aqBUtRuyx2406u6DE.",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:02.071000Z"
+  },
+  {
+    "id": "1755528113081",
+    "name": "10 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$7irQglQdHkbG9plYp/XfHOsAihm0E8Ag2q/XhLxdRwpl0bSHi6SQa",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:03.071000Z"
+  },
+  {
+    "id": "1755528113082",
+    "name": "11 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$yzSHe2repS3axNPYftS6EOOM6z56PBZf1t5V5XojDyXt5jZTf5hZG",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:04.071000Z"
+  },
+  {
+    "id": "1755528113083",
+    "name": "12 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$DlqLteTLCYaEx/AS0DL5/.ulbsCJiJeTbhWJUdmLcY9XpzArXYOfe",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:05.071000Z"
+  },
+  {
+    "id": "1755528113084",
+    "name": "13 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$K397CUhmg40qE2syfWL2CObCr7HS.CCVV7cBIv2OnX2YDVmsiE6tu",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:06.071000Z"
+  },
+  {
+    "id": "1755528113085",
+    "name": "14 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$5B7Ej5YJxHINLjxDLWW.D.SXzU4AdzwFKni7m9XeUxtRjJ7T21G5O",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:07.071000Z"
+  },
+  {
+    "id": "1755528113086",
+    "name": "15 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$CPXyi/7Am1XshqxaRaB83OlnUNkpg/PPvHp0P2PBo7aJi0nwH3uuq",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:08.071000Z"
+  },
+  {
+    "id": "1755528113087",
+    "name": "16 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$mpjM5tEHhgOmK9WosbJ.6OzYwxWc9rK5.h5ffcGiY2P6VnpB4PW56",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:09.071000Z"
+  },
+  {
+    "id": "1755528113088",
+    "name": "17 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$7dCTJm/jbnXAjffjpnBBx.SNMZCWSfWDHNLqILNPRb6VfK5cc8pAK",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:10.071000Z"
+  },
+  {
+    "id": "1755528113089",
+    "name": "18 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$vCA3wlyXkipgKNCy3h7lbOf9oH80cynmB35u00wt7bwCeH3SqWpKm",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:11.071000Z"
+  },
+  {
+    "id": "1755528113090",
+    "name": "19 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$Cm9pn2wtFxWg1OkpZeHH6OiMS68EbAruNCcDD3x2rW3/aWZ4.vz5K",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:12.071000Z"
+  },
+  {
+    "id": "1755528113091",
+    "name": "20 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$Er9yxpHEp8wpuPG.QDXu0OGt90GZt4Btx1iZspI7Kv..l7.cCqgpW",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:13.071000Z"
+  },
+  {
+    "id": "1755528113092",
+    "name": "21 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$xBn9QlbHwia4D4mKPEPNEuCy93hgd9dgoG8csr60vCQYCNtTyqEIK",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:14.071000Z"
+  },
+  {
+    "id": "1755528113093",
+    "name": "22 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$92fQf0nh45X6WMvySwAwcuLWoEbHvClNmU4oiPSuZcXmyd1QAsZjm",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:15.071000Z"
+  },
+  {
+    "id": "1755528113094",
+    "name": "23 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$0Q81Ecl9zKDNHK/AoZPWSeBJd0zq7n.pw0zmLOZQpwXGyFbLQW22K",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:16.071000Z"
+  },
+  {
+    "id": "1755528113095",
+    "name": "24 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$/QY720zkFKtv8QXFRgv.9OswvhixjZSWp56NwSai4NrCUsDKdTC5a",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:17.071000Z"
+  },
+  {
+    "id": "1755528113096",
+    "name": "25 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$iIqFB6YLI1GkexxKsLsXwu8zDLR.Krcu2vtMQpAHPws9wfDJz/FTy",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:18.071000Z"
+  },
+  {
+    "id": "1755528113097",
+    "name": "26 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$QX4OyQSclaAbiWjysRQzJuIca0Lwli8AcRU/X2zEFtqNpgGrfKM6i",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:19.071000Z"
+  },
+  {
+    "id": "1755528113098",
+    "name": "27 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$HCLQKVAXUTLKt.emDzVPoeDKij..1UcY6iW0X0rRc1w4Py6hgkGKK",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:20.071000Z"
+  },
+  {
+    "id": "1755528113099",
+    "name": "28 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$mWFFjvPHJTIN1T4/cza6SOgKQ0IOwdjLQy/6Oi88XX8iURU/Se/b6",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:21.071000Z"
+  },
+  {
+    "id": "1755528113100",
+    "name": "29 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$LHPGHEXTCNGKNx4dqBGaj.iiwLM73pLvBUi3BmD0xmLmWRpX9jLb6",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:22.071000Z"
+  },
+  {
+    "id": "1755528113101",
+    "name": "30 - Foydalanuvchi",
+    "login": "user2205@rcs.uz",
+    "password": "$2b$10$aKHs6Mc4jLPmOAFAjstWzOry7Lv/WTd8K.C9dyiYllX.g2AmFL.fO",
+    "isAdmin": false,
+    "createdAt": "2025-08-18T14:42:23.071000Z"
   }
 ]
